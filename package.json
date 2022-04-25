@@ -1,12 +1,18 @@
 {
-  "name": "kilavila-popup",
+  "type": "module",
+  "name": "@kilavila/popup",
   "version": "1.0.0",
-  "description": "",
+  "description": "Display notification messages to your users.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/index.js"
   },
-  "keywords": [],
-  "author": "kilavila <christer.kilavik@protonmail.com>",
+  "keywords": [
+    "notification",
+    "snackbar",
+    "toaster",
+    "popup"
+  ],
+  "author": "kilavila",
   "license": "MIT"
 }

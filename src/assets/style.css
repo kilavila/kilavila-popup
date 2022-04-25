@@ -1,0 +1,16 @@
+.kilavila-popup-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+.kilavila-popup-card {
+    /* CARD STYLING */
+}
+.kilavila-popup-card.active {}
+
+.kilavila-popup-default {}
+.kilavila-popup-information {}
+.kilavila-popup-success {}
+.kilavila-popup-error {}
+.kilavila-popup-warning {}
